@@ -1,52 +1,40 @@
-# 🌌 Welcome to the Cosmos of Wes, Flutter Virtuoso! 🚀
+# Wasim Anabtawi - Flutter Developer
 
-Hi there, I'm Wasim - a passionate Flutter Developer with a galaxy of apps orbiting my three-year journey in Flutter development. Dive into my world of innovative coding and creative solutions!
+Hello, I'm Wasim, a dedicated and passionate Flutter Developer with over three years of experience in crafting high-quality, scalable mobile applications. Welcome to my GitHub space where code meets creativity.
 
-![Profile views](https://gpvc.arturio.dev/WasimAnabtawi)
-![GitHub followers](https://img.shields.io/github/followers/WasimAnabtawi?style=social)
+## 🚀 About Me
 
-## 🧑‍🚀 About the Astronaut in Coding Space
-<!-- Add a unique or themed image or animated GIF -->
-<img src="https://example.com/your-unique-image-or-gif-url.gif" alt="About Me" width="400" />
+<img src="https://example.com/your-professional-animated-gif-url.gif" alt="About Me" width="400" />
 
-👨‍💻 Crafting mobile experiences for 3 years with Flutter.
+- 🌟 Specializing in Flutter development with a keen eye for UI/UX design.
+- 🔭 Contributed to various projects, ranging from e-commerce apps to social media platforms.
+- 🌱 Continuously learning and integrating new technologies to stay ahead in the mobile development field.
+- 💼 Open to collaboration on innovative projects and freelance opportunities.
 
-🌟 Developed numerous applications ranging from lifestyle to fintech, showcasing versatility and innovation.
+## 💻 Flutter Expertise
 
-🔭 Constantly exploring new dimensions in mobile development and UI/UX design.
+- Rich experience in developing cross-platform mobile applications using Flutter & Dart.
+- Proficient in state management solutions like Provider, Bloc, and Riverpod.
+- Strong understanding of RESTful APIs and integrating various cloud services.
+- Committed to writing clean, maintainable, and efficient code.
 
-🌱 Currently delving deeper into the realms of advanced Flutter functionalities and state management.
+## 📈 GitHub Statistics
 
-👯‍♂️ Eager to collaborate on projects that challenge the norms of mobile app development.
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WasimAnabtawi&show_icons=true&count_private=true&theme=vue)
 
-📫 Reach out to me for Flutter galore: [Your Contact Information].
+## 🛠 Skills
 
-🔗 Fluttering through my professional story: [Link to Your Resume or LinkedIn].
+- Languages: Dart, JavaScript, Kotlin
+- Frameworks: Flutter, React Native
+- Tools: Git, Firebase, Docker
 
-## 🛸 My Flutter Odyssey
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark)
+## 🔗 Connect with Me
 
-### 🔥 Streak of Stardust
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=neon-palenight&background=000000)
-
-## 🌐 Universe of Skills
-<!-- Add skill badges or icons -->
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
-<!-- Add more skills relevant to your expertise -->
-
-## 🚀 Featured Projects in the Flutter Galaxy
-<a href="https://github.com/yourusername/your-best-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-best-repo&theme=algolia" />
-</a>
-<a href="https://github.com/yourusername/another-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-repo&theme=algolia" />
-</a>
-
-## 📡 Connect Across the Universe
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
 
 ---
 
-<p align="center">© 2024 [Your Name]. All Rights Reserved. Powered by Flutter & ☕.</p>
+<p align="center">
+  &copy; [2024] [Wes] | All Rights Reserved.
+</p>
