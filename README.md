@@ -30,7 +30,7 @@ Hello, I'm Wasim, a dedicated and passionate Flutter Developer with over three y
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/wasim-anabtawi-a09032213/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/wasim-anabtawi-a09032213/])
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
 
 ---
